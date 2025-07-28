@@ -1,5 +1,8 @@
 # Project1-
 
+QuickBuy    This data is collected from a Turkish retail company. Time period is beginning from 2017 to the end of 2019.
+
+
 ---sales.csv - This csv file provides insights into product sales, revenue, stock levels, pricing, and promotional effectiveness across different stores and dates.
 product_id - The unique identifier of a product (String)
 store_id - The unique identifier of a store (String)
