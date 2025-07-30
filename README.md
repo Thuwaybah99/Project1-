@@ -48,3 +48,25 @@ store_name (String)
 ---city_names.csv - This file maps city identifiers to their names, enabling geographical analysis and insights based on city-level data.
 city_id (String)
 city_names (String)
+
+🚀 Data Analytics Project – Part 1
+
+Excited to kick off a new data analytics journey! Today, I’m diving into a project for BazarNova, a leading Turkish retail chain with a global presence, renowned for its diverse product offerings and dedication to customer satisfaction.
+
+Over the next few weeks, I’ll be working with 4 years of extensive daily sales data from all stores and regions combined. My role is to uncover actionable insights that can help the company enhance its sales strategies and optimize overall business performance.
+
+✨️Here’s what I’ll be focusing on:
+
+● Identifying top-performing products and categories
+
+● Exploring seasonal and time-based sales patterns
+
+● Measuring the impact of promotions
+
+● Analyzing regional and store-level performance
+
+
+The goal? To transform raw data into strategic insights that drive smarter decision-making and help BazarNova maintain its competitive edge.
+
+Looking forward to sharing key findings along the way! 💡
+
